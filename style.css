@@ -7,3 +7,13 @@ body {
     background: #f0f0f0;
     padding: 40px;
 }
+
+.section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.section img {
+    width: 200px;
+}
